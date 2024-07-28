@@ -9,9 +9,9 @@ The purpose of this project is to master the exploratory data analysis (EDA) wit
 
 # 📚 Projects  
   
-### 🎬 
-The dataset is from [Kaggle: IMDB data from 2006 to 2016](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data) and contains information about 1,000 movies collected from The Movie Database (IMDb), including rating, revenue, year, directors and genres.
-In this analysis, we set out to analyze IMDB movie dataset to get insights and answer all our burning curiousity.I tried to give answers to a set of questions that may be relevant when analyzing movie data.
+### 🎬[Project #1 IMDB Movies Analysis](https://github.com/subalasingh/Exploratory-Data-Analysis/blob/main/IMDB-Movie-Data-EDA.ipynb)
+The dataset is from [Kaggle: IMDB data from 2006 to 2016](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data) and contains information about 1,000 movies collected from The Movie Database (IMDb), including rating, revenue, year, runtime and genres.
+In this analysis, we set out to analyze IMDB movie dataset to get insights and answer all our burning curiousity. I tried to give answers to a set of questions that may be relevant when analyzing movie data.
 
 Questions: 
 1. Display Top 10 Rows of The Dataset
