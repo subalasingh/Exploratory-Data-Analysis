@@ -1,8 +1,12 @@
 # 🌟 Exploratory-Data-Analysis
+![Star Badge](https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99)
+[![View Main Folder](https://img.shields.io/badge/View-Main_Folder-971901?)](https://github.com/subalasingh/Exploratory-Data-Analysis)
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/subalasingh?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/View-My_Profile-green?logo=GitHub)](https://github.com/subalasingh)
 
 The purpose of this project is to master the exploratory data analysis (EDA) with different datasets.
 
-# Goals of the Project:
+# 🎯 Goals of the Project:
 
 1. Explore datasets with Pandas framework.
 2. Visualize the dataset with various plot types.
@@ -13,7 +17,7 @@ The purpose of this project is to master the exploratory data analysis (EDA) wit
 The dataset is from [Kaggle: IMDB data from 2006 to 2016](https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data) and contains information about 1,000 movies collected from The Movie Database (IMDb), including rating, revenue, year, runtime and genres.
 In this analysis, we set out to analyze IMDB movie dataset to get insights and answer all our burning curiousity. I tried to give answers to a set of questions that may be relevant when analyzing movie data.
 
-Questions: 
+### 🛠️ Questions: 
 1. Display Top 10 Rows of The Dataset
 2. Check Last 10 Rows of The Dataset
 3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
@@ -38,7 +42,10 @@ Questions:
 22. Find Unique Values From Genre 
 23. How Many Films of Each Genre Were Made?
 
-## USED LIBRARIES:
-1. PANDAS
-2. MATPLOTLIB
-3. SEABORN
+## 📃 Used Libraries:
+1. Pandas
+2. Matplotlib
+3. Seaborn
+
+---
+<p>&copy; 2021 Subala Singh</p>
